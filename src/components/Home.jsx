@@ -28,3 +28,6 @@ const fetchData = async()=>{
         </div>
     )
 };
+
+
+/* there are 2 versions of Card the Normal is the one which was asked and Enhanced Card component is the one which i created in my own style */
